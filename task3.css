@@ -1,0 +1,29 @@
+h3,h1,p{
+    padding-left: 200px;
+}
+h3{
+    color: black;
+    padding-top: 300px;
+}
+h1{
+    color: blue;
+}
+body{
+    background-image: url(https://blenddesign.co.nz/wp-content/uploads/2017/04/portfolio-background.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+li{
+    float: left;
+    text-align: center;
+    font-size: 50;
+    margin-left: 50px;
+}
+ul{
+    padding-left:700px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
